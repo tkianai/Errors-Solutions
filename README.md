@@ -8,6 +8,7 @@ This repo record some solutions to specific bugs encounted when working...
 
 - GIT
 - Mysql
+- Pytorch
 
 
 ## Welcome pull request
