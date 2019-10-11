@@ -10,6 +10,7 @@ This repo record some solutions to specific bugs encounted when working...
 - Mysql
 - Pytorch
 - Python
+- MongoDB
 
 
 ## Welcome pull request
